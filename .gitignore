@@ -31,7 +31,7 @@
 *.out
 *.app
 
-### CMake template
+### CMake files
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -47,6 +47,9 @@ _deps
 # IDE files
 .idea
 .vscode
+
+# Ninja
+.ninja_*
 
 # Do not ignore
 !bin/windows/*.exe
