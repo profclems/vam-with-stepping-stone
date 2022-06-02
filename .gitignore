@@ -47,6 +47,7 @@ _deps
 # IDE files
 .idea
 .vscode
+.DS_Store
 
 # Ninja
 .ninja_*
